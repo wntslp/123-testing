@@ -1,5 +1,3 @@
-# 123-Testing
-
 ## 240-123 Module Data Structure, Algorithms and Programming
 
 ## ธวัลรัตน์ บรรณคีรี 6710110184
